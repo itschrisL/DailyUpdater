@@ -1,0 +1,14 @@
+May 18, 2023
+Current Tasks
+[P 2] Help look into the Test script for QPUtil [Est 1 day]
+[P 1] Update the init_setup.py script for ubuntu [Est 2 days]
+This script has some bugs in it from ubuntu.
+[p 1] Join support session [Est 1 hour]
+
+
+Completed Tasks
+Help look into the Test script for QPUtil
+Join support session
+Pending Tasks
+Update the init_setup.py script for ubuntu
+Still looking into some bugs
